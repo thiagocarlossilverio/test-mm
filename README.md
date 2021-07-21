@@ -5,7 +5,7 @@
 
 - Crud clientes, nome e email<br />
 - API: Crud<br />
-
+<br/>
 
 # Iniciando o Projeto
 -1º git clone https://github.com/thiagocarlossilverio/test-mm.git<br/>
@@ -21,9 +21,9 @@
 # Observações
 Talvez seja necessario mudar o IP ou hostaname no arquivo: test-mm/public/app/app.js
 para a execução correta.
-
+<br/><br/>
 
 
 Caso não queira executar o projeto em sua maquina, coloquei o mesmo em produção
-
+<br/><br/><br/>
 Só acessar o seguinte IP: http://179.189.29.153/
