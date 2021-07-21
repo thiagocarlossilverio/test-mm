@@ -8,15 +8,15 @@
 
 
 # Iniciando o Projeto
--1º git clone https://github.com/thiagocarlossilverio/test-mm.git
--2° cd /test-mm
--3º dar as permissões de acesso nos diretorios: sudo chmod 777 -R storage e sudo chmod 777 -R public
--4º composer install ou composer update
--5° Criar sua base de dados MYSQL;
--6° Configurar os parametros de conexão ao banco, no arquivo .env;
--7º criar a tabela referente ao CRUD, executando o seguinte comando: php artisan migrate;
--8° Se necessário, criar o virtual host no apache, direcionando para a pasta publica;
-
+-1º git clone https://github.com/thiagocarlossilverio/test-mm.git<br/>
+-2° cd /test-mm<br/>
+-3º dar as permissões de acesso nos diretorios: sudo chmod 777 -R storage e sudo chmod 777 -R public<br/>
+-4º composer install ou composer update<br/>
+-5° Criar sua base de dados MYSQL;<br/>
+-6° Configurar os parametros de conexão ao banco, no arquivo .env;<br/>
+-7º criar a tabela referente ao CRUD, executando o seguinte comando: php artisan migrate;<br/>
+-8° Se necessário, criar o virtual host no apache, direcionando para a pasta publica;<br/>
+<br/><br/><br/>
 
 # Observações
 Talvez seja necessario mudar o IP ou hostaname no arquivo: test-mm/public/app/app.js
